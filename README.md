@@ -1,2 +1,2 @@
-# shoping-item
-this is a shoping page !
+# Graient-page
+this is a Gradient page !
